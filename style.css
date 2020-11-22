@@ -1,0 +1,40 @@
+/* Navigation bar style */
+.navigation {
+  height: 60px;
+  padding: 0 30px;
+}
+
+.navigate-btn {
+  width: 300px;
+}
+
+.navigate-btn .btn-secondary {
+  margin-left: 20px;
+}
+
+.search-crypto-input,
+.search-crypto-btn {
+  margin-right: 30px;
+}
+
+.search-crypto-input {
+  height: 40px;
+  width: 300px;
+}
+
+/* Table style: to make it bigger and presentable */
+
+#myTable {
+  width: 900px;
+  margin: 100px auto 0;
+}
+
+tbody tr {
+  height: 40px;
+}
+
+th {
+  text-align: center;
+}
+
+/* There is no responsive here */
